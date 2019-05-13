@@ -1,0 +1,96 @@
+Given:
+1) mean inter-arrival time = 6.000000
+2) mean orbiting time = 5.000000
+3) service time = 2.000000
+4) buffer size = 5
+CI range for T (Mean) = 2.501762 to 2.503601
+CI range for D (Mean) = 0.000344 to 0.000345
+CI range for T (95th percentile) = 4.463602 to 4.514286
+CI range for D (95th percentile) = 0.000000 to 0.000000
+
+
+
+Given:
+1) mean inter-arrival time = 6.000000
+2) mean orbiting time = 5.000000
+3) service time = 2.500000
+4) buffer size = 5
+CI range for T (Mean) = 3.398176 to 3.405052
+CI range for D (Mean) = 0.007015 to 0.007076
+CI range for T (95th percentile) = 6.486490 to 6.607258
+CI range for D (95th percentile) = 0.000000 to 0.000000
+
+
+
+Given:
+1) mean inter-arrival time = 6.000000
+2) mean orbiting time = 5.000000
+3) service time = 3.000000
+4) buffer size = 5
+CI range for T (Mean) = 4.508814 to 4.530283
+CI range for D (Mean) = 0.022647 to 0.023042
+CI range for T (95th percentile) = 9.043135 to 9.453462
+CI range for D (95th percentile) = 0.000000 to 0.000000
+
+
+
+Given:
+1) mean inter-arrival time = 6.000000
+2) mean orbiting time = 5.000000
+3) service time = 3.500000
+4) buffer size = 5
+CI range for T (Mean) = 5.938200 to 5.991085
+CI range for D (Mean) = 0.078411 to 0.080852
+CI range for T (95th percentile) = 12.588890 to 13.412261
+CI range for D (95th percentile) = 0.000000 to 0.000000
+
+
+
+Given:
+1) mean inter-arrival time = 6.000000
+2) mean orbiting time = 5.000000
+3) service time = 4.000000
+4) buffer size = 5
+CI range for T (Mean) = 7.970785 to 8.159080
+CI range for D (Mean) = 0.292361 to 0.316185
+CI range for T (95th percentile) = 17.352306 to 18.654142
+CI range for D (95th percentile) = 0.071896 to 0.388893
+
+
+
+Given:
+1) mean inter-arrival time = 6.000000
+2) mean orbiting time = 5.000000
+3) service time = 4.500000
+4) buffer size = 5
+CI range for T (Mean) = 10.485715 to 11.660620
+CI range for D (Mean) = 0.721856 to 1.008248
+CI range for T (95th percentile) = 21.057684 to 26.849789
+CI range for D (95th percentile) = -1.580265 to 8.528604
+
+
+
+Given:
+1) mean inter-arrival time = 6.000000
+2) mean orbiting time = 5.000000
+3) service time = 5.000000
+4) buffer size = 5
+CI range for T (Mean) = 14.748215 to 19.082439
+CI range for D (Mean) = 2.160686 to 3.954775
+CI range for T (95th percentile) = 21.310959 to 51.573744
+CI range for D (95th percentile) = 2.236250 to 27.458066
+
+
+
+Given:
+1) mean inter-arrival time = 6.000000
+2) mean orbiting time = 5.000000
+3) service time = 5.500000
+4) buffer size = 5
+CI range for T (Mean) = -15.626745 to 90.211092
+CI range for D (Mean) = -26.085523 to 60.874486
+CI range for T (95th percentile) = -274.676211 to 446.396967
+CI range for D (95th percentile) = -293.407683 to 410.489553
+
+
+

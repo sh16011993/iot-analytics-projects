@@ -1,0 +1,72 @@
+Given:
+1) mean inter-arrival time = 6.000000
+2) mean orbiting time = 5.000000
+3) service time = 5.000000
+4) buffer size = 2
+t_mean_of_means: 17.805019
+d_mean_of_means: 10.138967
+t_mean_of_95s: 51.073899
+d_mean_of_95s: 39.188287
+
+
+
+Given:
+1) mean inter-arrival time = 6.000000
+2) mean orbiting time = 5.000000
+3) service time = 5.000000
+4) buffer size = 5
+t_mean_of_means: 16.915327
+d_mean_of_means: 3.057730
+t_mean_of_95s: 36.442352
+d_mean_of_95s: 14.847158
+
+
+
+Given:
+1) mean inter-arrival time = 6.000000
+2) mean orbiting time = 5.000000
+3) service time = 5.000000
+4) buffer size = 15
+t_mean_of_means: 17.542245
+d_mean_of_means: 0.075640
+t_mean_of_95s: 44.673905
+d_mean_of_95s: 0.030303
+
+
+
+Given:
+1) mean inter-arrival time = 6.000000
+2) mean orbiting time = 5.000000
+3) service time = 5.000000
+4) buffer size = 30
+t_mean_of_means: 17.375250
+d_mean_of_means: 0.001216
+t_mean_of_95s: 45.121818
+d_mean_of_95s: 0.000000
+
+
+
+Given:
+1) mean inter-arrival time = 6.000000
+2) mean orbiting time = 5.000000
+3) service time = 5.000000
+4) buffer size = 50
+t_mean_of_means: 17.382923
+d_mean_of_means: 0.000000
+t_mean_of_95s: 45.224494
+d_mean_of_95s: 0.000000
+
+
+
+Given:
+1) mean inter-arrival time = 6.000000
+2) mean orbiting time = 5.000000
+3) service time = 5.000000
+4) buffer size = 100
+t_mean_of_means: 17.382923
+d_mean_of_means: 0.000000
+t_mean_of_95s: 45.224494
+d_mean_of_95s: 0.000000
+
+
+
