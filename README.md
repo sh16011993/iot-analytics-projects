@@ -1,2 +1,2 @@
 # iot-analytics-projects
-This repository contains the projects related to "IOT Analytics" course
+This repository contains projects related to "IOT Analytics" course
